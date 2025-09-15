@@ -69,6 +69,10 @@ CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.country
 );
 
 -- no real changes. just tetsing git hub
+-- bollocks
+
+-- and again
+
 
 -- franchise table build
 CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.franchise

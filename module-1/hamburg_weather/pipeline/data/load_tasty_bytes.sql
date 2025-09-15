@@ -68,6 +68,7 @@ CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.country
    city_id number(19,0)
 );
 
+-- no real changes. just tetsing git hub
 
 -- franchise table build
 CREATE OR ALTER TABLE {{env}}_tasty_bytes.raw_pos.franchise

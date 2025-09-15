@@ -305,7 +305,8 @@ USE WAREHOUSE demo_build_wh;
     city_population
  )
  FROM @{{env}}_tasty_bytes.public.s3load/raw_pos/country/;
-
+ --
+ -- no chamnge to see here
 
 -- franchise table load
 COPY INTO {{env}}_tasty_bytes.raw_pos.franchise
